@@ -25,19 +25,29 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 **CIRCUIT DIAGRAM: VERIFICATION OF NORTON’S THEOREM**
 
 **To measure IL**
+<img width="758" height="577" alt="image" src="https://github.com/user-attachments/assets/6e51c043-3940-413b-8854-9131f0524f4b" />
+
 
 
 **To measure RTh or RN**
+<img width="1607" height="642" alt="image" src="https://github.com/user-attachments/assets/9fc83c04-9b19-43ce-99f3-55aeaf19cf1a" />
+
 
 
 
 **To measure IN or Isc**
+<img width="1256" height="544" alt="image" src="https://github.com/user-attachments/assets/c745787e-9c71-4d62-8bf8-1746524aa1fb" />
+
 
  
 **Thevenin’s equivalent circuit**
+<img width="692" height="434" alt="image" src="https://github.com/user-attachments/assets/12d84174-92d4-4d75-aa69-eeadbae52d4a" />
+
 
 
 **Norton’s equivalent circuit**
+<img width="703" height="442" alt="image" src="https://github.com/user-attachments/assets/482c8aaf-ae45-4ef5-9d87-a7da1c079619" />
+
 
 
 **PROCEDURE:**
@@ -72,12 +82,16 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 **TABULAR COLUMN: 1**
 To measure I L
+<img width="1104" height="488" alt="image" src="https://github.com/user-attachments/assets/3a1d7810-c372-45f0-99f1-2df05ba01354" />
+
 
 Vi (volts)	IL (amps)
 
 **TABULAR COLUMN:2**
 
 To measure RTh or RN
+<img width="1268" height="539" alt="image" src="https://github.com/user-attachments/assets/d9cd24fa-2b68-4950-ab06-7a3cafbb6d23" />
+
 
 Vi (volts)	RTh (Ω)
 
@@ -85,21 +99,28 @@ Vi (volts)	RTh (Ω)
 **TABULAR COLUMN:3**
 
 To measure IN or Isc
+<img width="1363" height="491" alt="image" src="https://github.com/user-attachments/assets/7c6dd8fa-c4ce-4865-8b84-aaa7480a0544" />
+
 
 Vi (volts)	IN (amps)
 	
 **MODEL CALCULATION:**
 
-Practical value of IL (from tabulation 1) =2.3mA
+Practical value of IL (from tabulation 1) =2.9mA
 
 **Verification of Norton’s theorem**
 
-IL = IN * RN / ( RN+ RL ) = 2.43mA
+IL = IN * RN / ( RN+ RL ) = 2.77mA
 
 Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
+<img width="630" height="634" alt="image" src="https://github.com/user-attachments/assets/6df7dbaf-61c7-459c-ac53-04b0296b670e" />
+<img width="898" height="611" alt="image" src="https://github.com/user-attachments/assets/dbca1c51-3bda-4526-b1e8-2aaef6b469b3" />
+<img width="443" height="507" alt="image" src="https://github.com/user-attachments/assets/4b5295c6-8ba1-494a-a6ca-7064e9db8cdb" />
+
  
 
 
 **RESULT:**
+      Thus Nortons theorem is verified practically and theoretically.
 
-Thus Thevenin’s and Norton’s theorem is verified practically and theoretically.
+
